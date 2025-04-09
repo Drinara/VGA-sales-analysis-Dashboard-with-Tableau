@@ -96,9 +96,10 @@ The dataset captures **video game sales** across multiple years, regions, and ge
 ---
 
 ### 📂 Files in this Repository  
-- `Video_Game_Sales_Analysis.twb` → Tableau Dashboard File  
+- `tableau dashboards.twb` → Tableau Dashboard File  
 
 ---
 
 ### 📸 Dashboard Preview  
-(You can add screenshots here later for visual appeal!)  
+![image](https://github.com/user-attachments/assets/b3722c8e-9b92-41d3-95a2-faf571d40246)
+ 
